@@ -1,0 +1,25 @@
+1. Personalización 
+ 1.1 Async y corutina
+	https://docs.chainlit.io/guides/sync-async
+ 1.2 Chain of Thought / Tasklist
+	https://docs.chainlit.io/concepts/chain-of-thought
+	https://docs.chainlit.io/api-reference/elements/tasklist
+2. Refuerzo - Optimización
+ 2.1 Embeddings [HuggingFaceEmbeddings] podcast.py
+	https://huggingface.co/intfloat
+ 2.2 FAISS podcast.py
+	https://python.langchain.com/docs/integrations/providers/ctransformers
+ 2.3 RecursiveCharacterTextSplitter
+ 2.4 llm (Llama), RetrievalQA cuando se usa es as_retriever - Verle por los parámetros 	https://github.com/marella/ctransformers#config
+	https://python.langchain.com/docs/integrations/providers/ctransformers
+	https://python.langchain.com/docs/use_cases/question_answering/how_to/vector_db_qa
+
+Recomendación: Cómo funcionan los embeddings - práctica (código) [Youtube]
+
+Palabras clave:
+similarity_strategy 
+
+d\042x1a
+
+inference_parameters
+día
